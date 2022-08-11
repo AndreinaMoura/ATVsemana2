@@ -1,3 +1,20 @@
 header{
     text-align: center;
 }
+main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.bl{
+    background-color: aqua;
+    border-radius: 30px;
+    height: 100px;
+    width: fit-content;
+    justify-content: center;
+    padding: 10px;
+}
+input{
+    margin:10px;
+}
